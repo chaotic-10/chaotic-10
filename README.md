@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shreysri10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/u/2/d/17LYeOD2noqt9gzC_kYFEeV8eFqoWDxPm/view?usp=drivesdk](https://drive.google.com/file/u/2/d/17LYeOD2noqt9gzC_kYFEeV8eFqoWDxPm/view?usp=drivesdk)
+- 📄 Know about my experiences (https://drive.google.com/file/u/2/d/17LYeOD2noqt9gzC_kYFEeV8eFqoWDxPm/view?usp=drivesdk]https://drive.google.com/file/d/1AL2ik-GpnRpiqTVGT9n_s5e6o0a0903Q/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love playing guitar! ⚡️🎸**
 
