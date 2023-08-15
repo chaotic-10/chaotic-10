@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available at [https://shreyaskar-portfolio.netlify.app/](https://shreyaskar-portfolio.netlify.app/)
 
