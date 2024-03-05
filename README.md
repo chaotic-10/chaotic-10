@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Express.js**
 
-- 👨‍💻 All of my projects are available at [https://shreyaskar-portfolio.netlify.app/](https://shreyaskar-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://liveportfolioo.netlify.app/](https://liveportfolioo.netlify.app/)
 
 - 💬 Ask me about **HTML , CSS, JS, ReactJS, Bootstrap**
 
