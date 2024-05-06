@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shreysri10@gmail.com**
 
-- 📄 Know about my experiences [Resume(https://bit.ly/3ULkJKs)]
+- 📄 Know about my experiences [Resume](https://bit.ly/3ULkJKs)
 
 - ⚡ Fun fact **I can play guitar ! 🎸⚡**
 
